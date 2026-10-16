@@ -1,0 +1,50 @@
+{
+    "diagnostico-dipse":  {
+                              "id":  "diagnostico-dipse",
+                              "slideCount":  18,
+                              "downloadUrl":  "/presentations/downloads/diagnostico-dipse.pptx",
+                              "folder":  "/presentations/diagnostico-dipse",
+                              "filename":  "DIAGNÓSTICO - DIPSE.pptx",
+                              "title":  "DIAGNÓSTICO - DIPSE"
+                          },
+    "o-projeto":  {
+                      "id":  "o-projeto",
+                      "slideCount":  12,
+                      "downloadUrl":  "/presentations/downloads/o-projeto.pptx",
+                      "folder":  "/presentations/o-projeto",
+                      "filename":  "O PROJETO.pptx",
+                      "title":  "O PROJETO"
+                  },
+    "pdi-capo":  {
+                     "id":  "pdi-capo",
+                     "slideCount":  11,
+                     "downloadUrl":  "/presentations/downloads/pdi-capo.pptx",
+                     "folder":  "/presentations/pdi-capo",
+                     "filename":  "PDI - CAPO.pptx",
+                     "title":  "PDI - CAPO"
+                 },
+    "diagnostico-difob":  {
+                              "id":  "diagnostico-difob",
+                              "slideCount":  19,
+                              "downloadUrl":  "/presentations/downloads/diagnostico-difob.pptx",
+                              "folder":  "/presentations/diagnostico-difob",
+                              "filename":  "DIAGNÓSTICO - DIFOB.pptx",
+                              "title":  "DIAGNÓSTICO - DIFOB"
+                          },
+    "diagnostico-diop":  {
+                             "id":  "diagnostico-diop",
+                             "slideCount":  17,
+                             "downloadUrl":  "/presentations/downloads/diagnostico-diop.pptx",
+                             "folder":  "/presentations/diagnostico-diop",
+                             "filename":  "DIAGNÓSTICO - DIOP.pptx",
+                             "title":  "DIAGNÓSTICO - DIOP"
+                         },
+    "registros-fotograficos":  {
+                             "id":  "registros-fotograficos",
+                             "slideCount":  9,
+                             "downloadUrl":  "/presentations/downloads/registros-fotograficos.pptx",
+                             "folder":  "/presentations/registros-fotograficos",
+                             "filename":  "REGISTROS FOTOGRÁFICOS.pptx",
+                             "title":  "REGISTROS FOTOGRÁFICOS"
+                         }
+}
